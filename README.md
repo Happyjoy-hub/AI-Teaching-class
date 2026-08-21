@@ -5,6 +5,6 @@ AI 교육자료 저장소입니다.
 주요 내용
 - ChatGPT
 - 제미나이(Gemini)
-- 프롬프트(Prompt) 작성
+- AI 프롬프트(Prompt) 작성
 - AI 이미지 만들기
 - AI 영상 만들기
